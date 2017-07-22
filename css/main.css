@@ -1,0 +1,5 @@
+/*estilos generales*/
+.navbar {min-height: 70px; }
+
+/*seccion mainBg*/
+#mainBg{background-image: url("../img/background.jpg");background-repeat: no-repeat;background-size: cover;}
